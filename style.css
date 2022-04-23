@@ -1,0 +1,32 @@
+body{ 
+    background-color: black;
+}
+
+#cartao { 
+    width: 400px;
+    height: 200px;
+    background: url(../Imagens/background.png) no-repeat;
+    background-size: cover;
+}
+
+a{ 
+    text-decoration: none;
+    color: black;
+}
+
+#titulo{ 
+    padding-top:20px;
+    padding-left: 20px;
+}
+#insta{
+    margin-left: 10px;
+    list-style-image: url(../Imagens/Insta.png);
+}
+#twt{
+    margin-left: 10px;
+    list-style-image: url(../Imagens/Twitter.png);
+}
+#youtube{
+    margin-left: 10px;
+    list-style-image: url(../Imagens/Youtube.png);
+}
